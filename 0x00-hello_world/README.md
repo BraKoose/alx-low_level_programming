@@ -89,3 +89,5 @@
 - Compile this way: `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -o quote 101-quote.c`.
 
 </details>
+
+![img](https://github.com/BraKoose/alx-low_level_programming/blob/main/0x00-hello_world/Screenshot%20from%202023-07-15%2007-27-58.png)
