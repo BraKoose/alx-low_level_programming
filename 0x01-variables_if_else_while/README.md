@@ -130,3 +130,5 @@
 - Compile this way: `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 102-print_comb5.c -o 102-print_comb5`
 
 </details>
+
+![img](https://github.com/BraKoose/alx-low_level_programming/blob/main/0x01-variables_if_else_while/Screenshot%20from%202023-07-15%2007-32-55.png)
