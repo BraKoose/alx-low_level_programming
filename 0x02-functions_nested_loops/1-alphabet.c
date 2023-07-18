@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * print alphabest a-z with _putchar
+ * print alphabest a-z with _putchar in lowercase
  *
  */
-
 void print_alphabet(void)
 {
 	int ch;
