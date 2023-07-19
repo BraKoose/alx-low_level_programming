@@ -5,7 +5,7 @@
 >Learning C right now, been wanting to get on this. It's going to be FUN !!.
 
 <p align="center">
-  <img src="https://i.postimg.cc/rprHShJ1/C-compilation-process.gif" />
+  <img src="https://media.giphy.com/media/26FPvAGaOuBgO92Vi/giphy.gif" />
 </p>
 
 ## About
