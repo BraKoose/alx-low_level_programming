@@ -5,7 +5,7 @@
 >Learning C right now, been wanting to get on this. It's going to be FUN !!.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPvAGaOuBgO92Vi/giphy.gif" />
+  <img src="https://64.media.tumblr.com/7b21782faad4e2ee8614949c29e5d727/3985f4a1c4521b5e-f3/s500x750/bce7b9298c4b46db265310060d3e3a73796abb03.gifv" />
 </p>
 
 ## About
